@@ -1,0 +1,4 @@
+# Lentes-Delgadas / Thin Lens
+Repositório de programas para Lentes Delgadas. Uso didático e para aprendizado de programação básica e desenvolvimento de gráficos avançado.
+## Faça o download de ambos os arquivos e execute o arquivo do tipo .ipynb para poder gerar imagens de problemas de lentes delgadas com três entradas. Não é necessário mexer no arquivo .py mas podes fazer as alterações desejadas caso queira mudar configurações de cor, posição, esconder raios notáveis, etc. Faça bom uso!
+## Hello. If you are interested in using a simple program for generating lens-object-image diagrams, this program is for you. Make a download of both files and execute the cell with a function call in the .ipynb file. The input is formed by three different informations, one need to be "ind" (indeterminate) and you can choose even one for being "inf" (infinity). In the .py file you can change the input's texts for your native language or make a request. Have fun!
