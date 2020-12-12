@@ -261,7 +261,7 @@ def ger_lente():
                         # é feito o plot do objeto na posição x= -a
         plt.scatter([-a], [1],marker= "^", color = 'r',s = 100)
         plt.plot([-a,-a], [0,1],color = 'r') 
-        
+       
 #===============================#
 ######### Plot da imagem ########
 #===============================#
@@ -343,7 +343,7 @@ def ger_lente():
         
         #raio que passa pelo centro e segue sem desvio + prolongamento do raio na direção oposta
         plt.plot([0,h_len*a], [0,-h_len], color = "orange")
-        
+        plt.plot([0,b], [0,aum], color = 'orange', linestyle = 'dashdot')
         #raios que chegam paralelos a lente e são desviados para os focos:
         if (f!='inf'):
             if(f>0):
